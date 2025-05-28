@@ -2,7 +2,7 @@
 
 🎯 **Self-taught full-stack developer** with 4,800+ hours of hands-on experience building applications with JavaScript, Angular, Node.js, Docker, and AWS. I love combining code with creative design, and I’m passionate about building tools that improve lives.
 
-💻 I’ve also spent 3,700+ hours creating digital art, UI designs, and animations using tools like Photoshop, After Effects, and Blender. My goal is to fuse technical power with aesthetic clarity.
+💻 I’ve also spent 3,700+ hours creating digital art, UI design, and animations using tools like Photoshop, After Effects, and Blender. My goal is to fuse technical power with aesthetic clarity.
 
 🌱 Currently exploring:
 - 🧠 Clean UI architecture in Angular
