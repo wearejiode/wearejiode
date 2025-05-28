@@ -47,7 +47,7 @@ Proficient in Angular and Vanilla JavaScript. Quick to adapt to new frameworks l
 ## 📬 Let’s Connect
 
 - 🌐 Portfolio: [fahrnbach.one](https://fahrnbach.one)
-- 💼 LinkedIn: *https://www.linkedin.com/in/cloudjacob*
+- 💼 LinkedIn: *https://www.linkedin.com/in/fahrnbach*
 - 📧 Email: *jacob@fahrnbach.one*
 
 ---
