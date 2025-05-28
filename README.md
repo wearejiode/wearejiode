@@ -39,6 +39,8 @@ Angular / Node.js / Express / MongoDB / Docker / AWS / Git / Linux
 **Creative Tools**  
 Photoshop / After Effects / Illustrator / Inkscape / Blender
 
+Proficient in Angular and Vanilla JavaScript. Quick to adapt to new frameworks like React—backed by deep JavaScript fluency.
+
 ---
 
 ## 📬 Let’s Connect
