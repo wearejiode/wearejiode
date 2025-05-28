@@ -15,7 +15,7 @@
 ## 🚀 Highlight Projects
 
 ### 🔗 [Portfolio Website](https://fahrnbach.one)
-https://github.com/fahrnbach/Portfolio-Site
+https://github.com/fahrnbach/portfolio-site
 Vanilla JavaScript, HTML, and CSS – a fast-loading, handcrafted site showcasing my projects, designs, and resume.
 
 ### 🎨 Art App (Frontend Complete)
