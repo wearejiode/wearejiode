@@ -18,7 +18,7 @@
 https://github.com/fahrnbach/portfolio-site
 Vanilla JavaScript, HTML, and CSS – a fast-loading, handcrafted site showcasing my projects, designs, and resume.
 
-### 🎨[Design Website](https://art.fahrnbach.one) ( Art App (Frontend Complete))
+### 🎨 [Design Website](https://art.fahrnbach.one)
 https://github.com/fahrnbach/art-app
 A Study on Impactful & Purposeful UX. Currently being reimagined for Angular with backend support in progress.
 
