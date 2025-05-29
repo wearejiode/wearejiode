@@ -15,17 +15,21 @@
 ## 🚀 Highlight Projects
 
 ### 🔗 [Portfolio Website](https://fahrnbach.one)
+| FRONT END | Vanilla
 https://github.com/fahrnbach/portfolio-site
 Vanilla JavaScript, HTML, and CSS – a fast-loading, handcrafted site showcasing my projects, designs, and resume.
 
 ### 🎨 [Design Website](https://art.fahrnbach.one)
+| FRONT END | Vanilla
 https://github.com/fahrnbach/art-app
 A Study on Impactful & Purposeful UX. Currently being reimagined for Angular with backend support in progress.
 
+| FULL STACK | Angular & Python
 ### 🪄 [BLOG](https://blog.fahrnbach.one)
 https://github.com/fahrnbach/blog-monorepo
 A Study on Impactful & Purposeful UX. Currently being reimagined for Angular with backend support in progress.
 
+| FULL STACK | Angular & Node
 ### 🧩 Angular Component Library (WIP)
 A dynamic-searchable component explorer built in Angular. Designed for scalability and reusability.
 
