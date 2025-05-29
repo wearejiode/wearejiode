@@ -38,7 +38,7 @@ A Study on Impactful & Purposeful UX. Currently being reimagined for Angular wit
 ### 🧩 Angular Component Library (WIP)
 *FULL STACK | Angular & Node*
 <br/>
-https://github.com/fahrnbach/component-library
+https://github.com/fahrnbach/angular-library
 <br/>
 A dynamic-searchable component explorer built in Angular. Designed for scalability and reusability.
 
