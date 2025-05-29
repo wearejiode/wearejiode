@@ -15,7 +15,7 @@
 ## 🚀 Highlight Projects
 
 ### 🔗 [Portfolio Website](https://fahrnbach.one)
-*FRONT END | Vanilla*
+*FRONT END | ThreeJS | Vanilla*
 <br/>
 https://github.com/fahrnbach/portfolio-site
 <br/>
