@@ -26,15 +26,15 @@ Vanilla JavaScript, HTML, and CSS – a fast-loading, handcrafted site showcasin
 https://github.com/fahrnbach/art-app
 A Study on Impactful & Purposeful UX. Currently being reimagined for Angular with backend support in progress.
 
+### 🪄 [BLOG](https://blog.fahrnbach.one)
 *| FULL STACK | Angular & Python*
 <br/>
-### 🪄 [BLOG](https://blog.fahrnbach.one)
 https://github.com/fahrnbach/blog-monorepo
 A Study on Impactful & Purposeful UX. Currently being reimagined for Angular with backend support in progress.
 
+### 🧩 Angular Component Library (WIP)
 *| FULL STACK | Angular & Node*
 <br/>
-### 🧩 Angular Component Library (WIP)
 A dynamic-searchable component explorer built in Angular. Designed for scalability and reusability.
 
 ### 🧾 Quote App (In Design Phase)
