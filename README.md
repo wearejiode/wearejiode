@@ -35,7 +35,7 @@ https://github.com/fahrnbach/blog-monorepo
 <br/>
 A Study on Impactful & Purposeful UX. Currently being reimagined for Angular with backend support in progress.
 
-### 🧩 Angular Component Library (WIP)
+### 🧩 [Angular Component Library](https://library.fahrnbach.one) (WIP)
 *FULL STACK | Angular & Node*
 <br/>
 https://github.com/fahrnbach/angular-library
