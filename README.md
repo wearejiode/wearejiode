@@ -19,7 +19,9 @@ https://github.com/fahrnbach/portfolio-site
 Vanilla JavaScript, HTML, and CSS – a fast-loading, handcrafted site showcasing my projects, designs, and resume.
 
 ### 🎨 Art App (Frontend Complete)
-A design tool for organizing and visualizing digital assets. Currently being reimagined for Angular with backend support in progress.
+[Design Website](https://art.fahrnbach.one)
+https://github.com/fahrnbach/art-app
+A Study on Impactful & Purposeful UX. Currently being reimagined for Angular with backend support in progress.
 
 ### 🧩 Angular Component Library (WIP)
 A dynamic-searchable component explorer built in Angular. Designed for scalability and reusability.
