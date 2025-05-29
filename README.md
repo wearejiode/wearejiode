@@ -18,22 +18,27 @@
 *FRONT END | Vanilla*
 <br/>
 https://github.com/fahrnbach/portfolio-site
+<br/>
 Vanilla JavaScript, HTML, and CSS – a fast-loading, handcrafted site showcasing my projects, designs, and resume.
 
 ### 🎨 [Design Website](https://art.fahrnbach.one)
 *FRONT END | Vanilla*
 <br/>
 https://github.com/fahrnbach/art-app
+<br/>
 A Study on Impactful & Purposeful UX. Currently being reimagined for Angular with backend support in progress.
 
 ### 🪄 [BLOG](https://blog.fahrnbach.one)
 *FULL STACK | Angular & Python*
 <br/>
 https://github.com/fahrnbach/blog-monorepo
+<br/>
 A Study on Impactful & Purposeful UX. Currently being reimagined for Angular with backend support in progress.
 
 ### 🧩 Angular Component Library (WIP)
 *FULL STACK | Angular & Node*
+<br/>
+https://github.com/fahrnbach/component-library
 <br/>
 A dynamic-searchable component explorer built in Angular. Designed for scalability and reusability.
 
