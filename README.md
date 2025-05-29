@@ -4,7 +4,7 @@
 
 I’m passionate about the intersection of creativity and code — from expressive frontends to optimized backends — and I’m currently diving deeper into Python and AI development.
 
-	My ultimate goal? To contribute to AI that makes the world more accessible, more creative, and more kind.
+	My ultimate goal? To contribute to Technology that makes the world more accessible, more creative, and more kind.
 
 🌱 Currently exploring:
 - 🧠 Clean UI architecture in Angular
