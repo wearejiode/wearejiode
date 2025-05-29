@@ -20,28 +20,28 @@
 https://github.com/fahrnbach/portfolio-site
 <br/>
 Vanilla JavaScript, HTML, and CSS – a fast-loading, handcrafted site showcasing my projects, designs, and resume.
-
+\\\
 ### 🎨 [Design Website](https://art.fahrnbach.one)
 *FRONT END | Vanilla*
 <br/>
 https://github.com/fahrnbach/art-app
 <br/>
 A Study on Impactful & Purposeful UX. Currently being reimagined for Angular with backend support in progress.
-
+\\\
 ### 🪄 [BLOG](https://blog.fahrnbach.one)
 *FULL STACK | Angular & Python*
 <br/>
 https://github.com/fahrnbach/blog-monorepo
 <br/>
 A Study on Impactful & Purposeful UX. Currently being reimagined for Angular with backend support in progress.
-
+\\\
 ### 🧩 [Angular Component Library](https://library.fahrnbach.one) (WIP)
 *FULL STACK | Angular & Node*
 <br/>
 https://github.com/fahrnbach/angular-library
 <br/>
 A dynamic-searchable component explorer built in Angular. Designed for scalability and reusability.
-
+\\\
 ### 🧾 Quote App (In Design Phase)
 A simple client intake + quoting app for landscaping and service businesses. Focused on UX clarity and quick deployments.
 
