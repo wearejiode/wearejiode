@@ -4,6 +4,14 @@
 
 💻 I’ve also spent 3,700+ hours creating digital art, UI design, and animations using tools like Photoshop, After Effects, Illustrator, and Blender. My goal is to fuse technical power with aesthetic clarity.
 
+My Journey
+
+I’m a self-taught developer with over 4,800 hours dedicated to learning software engineering, cloud, and web development — and another 3,700+ in digital art, design, and creative tools. I learned to code not just for the love of building, but because I believe that free access to knowledge changes lives — it changed mine.
+
+I’m passionate about the intersection of creativity and code — from expressive frontends to optimized backends — and I’m currently diving deeper into Python and AI development.
+
+	My ultimate goal? To contribute to AI that makes the world more accessible, more creative, and more kind.
+
 🌱 Currently exploring:
 - 🧠 Clean UI architecture in Angular
 - 🧰 Scaling projects with Docker & CI/CD
