@@ -6,14 +6,6 @@ I’m passionate about the intersection of creativity and code — from expressi
 
 	My ultimate goal? To contribute to Technology that makes the world more accessible, more creative, and more kind.
 
-🌱 Currently exploring:
-- 🧠 Clean UI architecture in Angular
-- 🧰 Scaling projects with Docker & CI/CD
-- 🐍 Practical Python scripting
-- 📱 Building Swift-based iOS prototypes
-
----
-
 ## 🚀 Highlight Projects
 
 ### 🔗 [Portfolio Website](https://fahrnbach.one)
@@ -63,6 +55,15 @@ Photoshop / After Effects / Illustrator / Inkscape / Blender
 Proficient in Angular and Vanilla JavaScript. Quick to adapt to new frameworks like React—backed by deep JavaScript fluency.
 
 ---
+
+🌱 Currently exploring:
+- 🧠 Clean UI architecture in Angular
+- 🧰 Scaling projects with Docker & CI/CD
+- 🐍 Practical Python scripting
+- 📱 Building Swift-based iOS prototypes
+
+---
+
 
 ## 📬 Let’s Connect
 
