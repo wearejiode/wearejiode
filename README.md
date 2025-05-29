@@ -28,7 +28,7 @@ https://github.com/fahrnbach/art-app
 <br/>
 A Study on Impactful & Purposeful UX. Currently being reimagined for Angular with backend support in progress.
 \\\
-### 🔏 [BLOG](https://blog.fahrnbach.one)
+### 📚 [BLOG](https://blog.fahrnbach.one)
 *FULL STACK | Angular & Python*
 <br/>
 https://github.com/fahrnbach/blog-monorepo
