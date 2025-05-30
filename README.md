@@ -7,7 +7,7 @@ I’m passionate about the intersection of creativity and code — from expressi
 	My ultimate goal? 
  	To contribute to Technology that makes the world more accessible, more creative, and more kind.
 
-## 🚀 Highlight Projects
+## 🚀 Highlighted Projects
 
 ### 🔗 [Portfolio Website](https://fahrnbach.one)
 *FRONT END | ThreeJS | Vanilla*
