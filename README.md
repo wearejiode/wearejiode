@@ -6,8 +6,15 @@ I’m passionate about the intersection of creativity and code — from expressi
 
 	My ultimate goal? 
  	To contribute to Technology that makes the world more accessible, more creative, and more kind.
+---
+## 🛰️ Devlog: Behind the Scenes
 
-## 🚀 Highlighted Projects
+A daily development journal chronicling the architecture, decisions, momentum and creative energy fueling this project — from DNS configs to Architecture.
+📖 [Explore the Dev Diary](https://github.com/fahrnbach/portfolio-site/discussions/1)
+
+---
+
+# 🚀 Highlighted Projects
 
 ### 🔗 [Portfolio Website](https://fahrnbach.one)
 *FRONT END | ThreeJS | Vanilla*
@@ -64,7 +71,6 @@ Proficient in Angular and Vanilla JavaScript. Quick to adapt to new frameworks l
 - 📱 Building Swift-based iOS prototypes
 
 ---
-
 
 ## 📬 Let’s Connect
 
