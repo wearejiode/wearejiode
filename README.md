@@ -10,7 +10,7 @@ I’m passionate about the intersection of creativity and code — from expressi
 ## 🛰️ Devlog: Behind the Scenes
 
 A daily development journal chronicling the architecture, decisions, momentum and creative energy fueling this project — from DNS configs to Architecture.
-📖 [Explore the Dev Diary](https://github.com/fahrnbach/portfolio-site/discussions/1)
+📖 [Explore the Dev Diary](https://github.com/fahrnbach/one/discussions/3)
 
 ---
 
