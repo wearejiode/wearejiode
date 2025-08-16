@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jacob Fahrnbach
 
-🎯 **Self-taught full-stack developer** with over 4,800 hours dedicated to learning software engineering, cloud, and web development — and another 3,700+ in digital art, design, and creative tools. I learned to code not just for the love of building, but because I believe that free access to knowledge changes lives — it changed mine.
+🎯 **Self-taught full-stack developer** with over a decade dedicated to learning software engineering, cloud, and web development — I've logged 4,800 hours on software and other related tech and another 3,700+ in digital art, design, and creative work. I learned to code not just for the love of building, but because I believe that free access to knowledge changes lives — it changed mine.
 
 I’m passionate about the intersection of creativity and code — from expressive frontends to optimized backends — and I’m currently diving deeper into Python and AI development.
 
