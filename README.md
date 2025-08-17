@@ -22,13 +22,13 @@ Let's design a brighter tomorrow; Together.
 >Quick to adapt to JS frameworks like React.
 
 **Programming Languages**  
-JavaScript / TypeScript / HTML / CSS / Bash / Spanish
+JavaScript / TypeScript / HTML / CSS / Bash
 
-**Frameworks & Platforms**  
-Angular / Node.js / Express / MongoDB / Docker / AWS / Git / Linux
+**Tech Stack**  
+Angular / Node.js / Express / MongoDB / Docker / Cloudflare / AWS / ZSH / NX 
 
 **Creative Tools**  
-Photoshop / After Effects / Illustrator / Inkscape / Blender
+Illustrator / Photoshop / After Effects / Inkscape / Blender
 
 **Spoken Languages**  
 English / Spanish  
