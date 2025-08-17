@@ -9,7 +9,7 @@ Let's design a brighter tomorrow; Together.
 
 ---
 
-### 🪄 [My Design Showcase](https://jiode.one)
+### ❤️ [My Design Showcase](https://jiode.one)
 *FRONT END | ThreeJS | Vanilla*  
 **Built with 💗 and  ☕️**  
 [Repository](https://github.com/fahrnbach/portfolio-site  )
