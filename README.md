@@ -1,4 +1,5 @@
 ## ✨ Hi, I’m Jiō
+
 I believe technology can guide humanity toward a stronger, more equitable — kinder world.  
 With over a **decade** in software engineering, cloud, networking, web development and *leadership*,  
 I am uniquely qualified to help craft the wonderful world of tomorrow.
@@ -42,6 +43,14 @@ English / Spanish
 - 🌐 Portfolio: [jiode.one](https://jiode.one)
 - 💼 LinkedIn: *https://www.linkedin.com/in/fahrnbach*
 - 📧 Email: *love@jiode.one*
+
+---
+
+| Workflow      | Status |
+|---------------|--------|
+| PR / Preview  | [![jiode.one — PR](https://github.com/wearejiode/syzygy/actions/workflows/jiode.one-pages-pr.yml/badge.svg?branch=main)](https://github.com/wearejiode/syzygy/actions/workflows/jiode.one-pages-pr.yml) |
+| Staging       | [![jiode.one — Staging](https://github.com/wearejiode/syzygy/actions/workflows/jiode.one-pages-release-staging.yml/badge.svg?branch=main)](https://github.com/wearejiode/syzygy/actions/workflows/jiode.one-pages-release-staging.yml) |
+| Production    | [![jiode.one — Production](https://github.com/wearejiode/syzygy/actions/workflows/jiode.one-pages-promote-prod.yml/badge.svg?branch=main)](https://github.com/wearejiode/syzygy/actions/workflows/jiode.one-pages-promote-prod.yml) |
 
 ---
 
