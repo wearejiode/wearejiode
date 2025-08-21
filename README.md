@@ -41,7 +41,7 @@ English / Spanish
 
 - 🌐 Portfolio: [jiode.one](https://jiode.one)
 - 💼 LinkedIn: *https://www.linkedin.com/in/fahrnbach*
-- 📧 Email: *jacob@fahrnbach.one*
+- 📧 Email: *love@jiode.one*
 
 ---
 
