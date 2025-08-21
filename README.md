@@ -1,4 +1,4 @@
-### ✨ Hi, I’m Jiō
+## ✨ Hi, I’m Jiō
 I believe technology can guide humanity toward a stronger, more equitable — kinder world.  
 With over a **decade** in software engineering, cloud, networking, web development and *leadership*,  
 I am uniquely qualified to help craft the wonderful world of tomorrow.
