@@ -2,7 +2,7 @@
 
 I build thoughtful digital experiences focused on connection, creativity, and high quality design.
 
-Frontend engineer with experience across:
+Full Stack engineer with experience across:
 JavaScript, Cloud, Networking, UI/UX, Creative (adobe) tooling.
 
 Currently exploring voice control UX,
